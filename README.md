@@ -1,4 +1,3 @@
 # Simulacion
 
-Bajo paradigma orientado a objetos escrito en java, utilizando las librerias:
-- Processing
+Bajo paradigma orientado a objetos utilizando Processing (Java):
